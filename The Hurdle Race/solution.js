@@ -5,4 +5,6 @@ function hurdleRace(k, height) {
     // and then after return the max between the total i.e the subtracted value and 0 because in case if the k is greator than the max in height array
 
     return Math.max(0, Math.max(...height) - k);
+    // time complexity for this program is O(1)
+    // space complexity for this programe is O(1)
 }

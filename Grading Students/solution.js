@@ -15,4 +15,6 @@ function gradingStudents(grades) {
       }
     }
     return round // return the final grades pushed in array
+    // time complexity for this program is O(n)
+    // space complexity for this programe is O(n)
 }

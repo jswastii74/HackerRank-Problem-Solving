@@ -17,5 +17,6 @@ function birthday(s, d, m) {
     }
     // and return the combos i.e total number of pairs matched
     return combos;
-
+    // time complexity for this program is O(n^2)
+    // space complexity for this programe is O(1)
 }

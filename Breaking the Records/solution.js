@@ -17,5 +17,6 @@ function breakingRecords(scores) {
         }
     }
     return [maxTotal, minTotal]; // return the maxTotal and minTotal in array form
-
+    // time complexity for this program is O(n)
+    // space complexity for this programe is O(1)
 }

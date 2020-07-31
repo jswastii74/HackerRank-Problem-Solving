@@ -18,4 +18,6 @@ function divisibleSumPairs(n, k, ar) {
             }
         }
     return count; // return count variable
+    // time complexity for this program is O(n^2)
+    // space complexity for this programe is O(1)
 }

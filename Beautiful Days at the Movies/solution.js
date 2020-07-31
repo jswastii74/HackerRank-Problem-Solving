@@ -14,5 +14,6 @@ function beautifulDays(i, j, k) {
         }
     }
     return total; // return total;
-    
+    // time complexity for this program is O(n)
+    // space complexity for this programe is O(1)
 }

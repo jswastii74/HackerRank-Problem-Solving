@@ -14,6 +14,7 @@ function pageCount(n, p) {
     else {
 
         return parseInt(p / 2);
+        // time complexity for this program is O(1)
+    // space complexity for this programe is O(1)
     }
 }
-console.log(pageCount(2, 4));

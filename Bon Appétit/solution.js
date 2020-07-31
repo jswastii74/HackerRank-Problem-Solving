@@ -8,4 +8,6 @@ function bonAppetit(bill, k, b) {
     let deduct = (total - bill[k]) / 2;
     // if deduct is less than b, then print b - deduct else print 'Bon Appetit'
     console.log(deduct < b ? b - deduct : "Bon Appetit");
+    // time complexity for this program is O(n)
+    // space complexity for this programe is O(1)
 }

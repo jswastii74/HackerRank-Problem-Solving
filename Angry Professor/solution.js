@@ -15,4 +15,6 @@ function angryProfessor(k, a) {
     // if the value of students arrive on time is greator or equal to k, then print 'NO' else print 'YES'
     // here 'NO' and 'YES' signifies whether the class will be cancelled or not respectively 
     return (arriveOnTime >= k) ? 'NO' : 'YES';
+    // time complexity for this program is O(n)
+    // space complexity for this programe is  O(1)
 }

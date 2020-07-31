@@ -12,4 +12,6 @@ function dayOfProgrammer(year) {
   } else {
     return '26.09.1918'; // return if year is neither greator than 1918 nor less that  1918, i.e year equal to 1918
   }
+  // time complexity for this program is O(1)
+    // space complexity for this programe is O(1)
 }
