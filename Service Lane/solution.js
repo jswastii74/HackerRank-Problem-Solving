@@ -8,5 +8,6 @@ function serviceLane(width, cases) {
         answer.push(Math.min(...min)) // now push the mininmum value into the created array, answer
     }
     return answer; // return array
-
+    // time complexity for this program is O(n)
+    // space complexity for this programe is O(n)
 }
